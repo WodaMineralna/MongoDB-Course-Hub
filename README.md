@@ -1,6 +1,6 @@
 # 🍃 MongoDB Course Hub
 
-Index of projects completed during the course **"MongoDB - The Complete Guide"** _by Maximilian Schwarzmüller_.  
+Index of projects completed during the course **"MongoDB - The Complete Guide"** _by Academind, Maximilian Schwarzmüller_.  
 > Note: I did not author the course - this repo collects my projects, challanges, notes, practice work, and improvements.
 
 ---
